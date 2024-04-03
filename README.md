@@ -52,4 +52,16 @@ Antes de iniciar o projeto, certifique-se que você possui os aplicativos, citad
 
 <p>• Pronto! Agora escolha a opção desejada.</p> 
 
-<h3 align="center">Demonstração</h3>
+<h3 align="center">Contribuições</h3>
+
+<p>Contribuições são sempre bem-vindas! Se você deseja aprimorar esse programa, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.</p>
+
+<h3 align="center">Licença</h3>
+<p>Este projeto é distribuído sob a Licença MIT. Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades.</p>
+
+Este projeto foi desenvolvido por Matheus Carneiro e é fornecido sem garantias de qualquer tipo. Divirta-se usando o LotoFácil!
+</p>
+
+<h3 align="center">Autor</h3>
+
+Feito por Matheus Carneiro.
