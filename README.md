@@ -30,7 +30,7 @@ Faça uso ou instale no seu computador os seguintes sistemas:
 
 - <a href="https://www.oracle.com/br/java/technologies/downloads/#java17"> Java JDK 17</a> 
 
-- <a href="https://www.jetbrains.com/idea/download/?section=windows"> Intelij</a> 
+- <a href="https://www.jetbrains.com/idea/download/?section=windows"> Intelij IDEA</a> 
 
 <h2 align="center">Abrindo o Projeto</h2> 
 
@@ -52,6 +52,15 @@ Antes de iniciar o projeto, certifique-se que você possui os aplicativos, citad
 
 <p>• Pronto! Agora escolha a opção desejada.</p> 
 
+<h2 align="center">Preview</h2> 
+
+<p> 
+<p>Abaixo, está a demosntração do sistema em funcionamento.
+
+<h3 align="center">Nota para o Professor</h3>
+
+<p>Professor, reorganizei esse repositório o máximo que eu consegui. Se você não ver parte do trabalho, ou algo do tipo, me envie uma mensagem, ou por telefone ou pelo meu email: carneirosilvamatheus@gmail.com
+  
 <h3 align="center">Contribuições</h3>
 
 <p>Contribuições são sempre bem-vindas! Se você deseja aprimorar esse programa, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.</p>
