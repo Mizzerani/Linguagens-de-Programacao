@@ -56,6 +56,9 @@ Antes de iniciar o projeto, certifique-se que você possui os aplicativos, citad
 
 <p> 
 <p>Abaixo, está a demosntração do sistema em funcionamento.
+  
+https://github.com/Mizzerani/Linguagens-de-Programacao/issues/1#issue-2242245171
+</details>
 
 <h3 align="center">Nota para o Professor</h3>
 
