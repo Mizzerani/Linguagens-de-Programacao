@@ -61,8 +61,7 @@ Antes de iniciar o projeto, certifique-se que você possui os aplicativos, citad
 https://github.com/Mizzerani/Linguagens-de-Programacao/assets/164261517/9ae007c1-327f-4ef7-b45e-272101311a73
 <p> Nesse primeiro vídeo, temos o programa sendo utilizado sem interface gráfica.
 
-
-
+https://github.com/Mizzerani/Linguagens-de-Programacao/assets/164261517/6681cfd3-fe66-4df7-a352-1055eab3ee1e
 <p> Nesse segundo vídeo, temos o programa sendo utilizado com interface gráfica.
 
 <h3 align="center">Nota para o Professor</h3>
